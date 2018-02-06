@@ -1,0 +1,53 @@
+2018-02-06 ---> 开始尝试连接到 172.28.180.117 
+ 2018-02-06 ---> 成功连接到 172.28.180.117 
+ 2018-02-06 ---> 开始尝试登录到 172.28.180.117 
+ 2018-02-06 ---> 成功登录到 172.28.180.117 
+ 2018-02-06 ---> 220 (vsFTPd 2.3.5) 
+ 2018-02-06 ---> 切换至远程目录: /App/AutoUpload/ouyangpeng/I12 
+ 2018-02-06 ---> upload_file_tree()---> 上传目录： Debug 
+ 2018-02-06 ---> 切换至远程目录: /App/AutoUpload/ouyangpeng/I12/Debug 
+ 2018-02-06 ---> upload_file_tree()---> 上传文件： Python编程快速上手__让繁琐工作自动化.pdf 
+ 2018-02-06 ---> local_file_size:14773136  , remote_file_size:-1 
+ 2018-02-06 ---> 上传: G:/ftp_test/Python编程快速上手__让繁琐工作自动化.pdf成功! 
+ 2018-02-06 ---> upload_file_tree()---> 上传目录： Release 
+ 2018-02-06 ---> 切换至远程目录: /App/AutoUpload/ouyangpeng/I12/Release 
+ 2018-02-06 ---> upload_file_tree()---> 上传文件： XTCLauncher.apk 
+ 2018-02-06 ---> local_file_size:16749148  , remote_file_size:-1 
+ 2018-02-06 ---> 上传: G:/ftp_test/Release\XTCLauncher.apk成功! 
+ 2018-02-06 ---> upload_file_tree()---> 上传文件： v1.jpg 
+ 2018-02-06 ---> local_file_size:203677  , remote_file_size:-1 
+ 2018-02-06 ---> 上传: G:/ftp_test/v1.jpg成功! 
+ 2018-02-06 ---> upload_file_tree()---> 上传文件： XTCLauncher.apk 
+ 2018-02-06 ---> local_file_size:16749148  , remote_file_size:-1 
+ 2018-02-06 ---> 上传: G:/ftp_test/XTCLauncher.apk成功! 
+ 2018-02-06 ---> close()---> FTP退出 
+ 2018-02-06 ---> 开始尝试连接到 172.28.180.117 
+ 2018-02-06 ---> 成功连接到 172.28.180.117 
+ 2018-02-06 ---> 开始尝试登录到 172.28.180.117 
+ 2018-02-06 ---> 成功登录到 172.28.180.117 
+ 2018-02-06 ---> 220 (vsFTPd 2.3.5) 
+ 2018-02-06 ---> 切换至远程目录: /App/AutoUpload/ouyangpeng/I12 
+ 2018-02-06 ---> 目录已存在 Debug ,具体错误描述为：550 Create directory operation failed. 
+ 2018-02-06 ---> upload_file_tree()---> 上传目录： Debug 
+ 2018-02-06 ---> 切换至远程目录: /App/AutoUpload/ouyangpeng/I12/Debug 
+ 2018-02-06 ---> upload_file_tree()---> 上传文件： Python编程快速上手__让繁琐工作自动化.pdf 
+ 2018-02-06 ---> local_file_size:14773136  , remote_file_size:14773136 
+ 2018-02-06 ---> 跳过相等的文件: G:/ftp_test/Python编程快速上手__让繁琐工作自动化.pdf 
+ 2018-02-06 ---> 目录已存在 Release ,具体错误描述为：550 Create directory operation failed. 
+ 2018-02-06 ---> upload_file_tree()---> 上传目录： Release 
+ 2018-02-06 ---> 切换至远程目录: /App/AutoUpload/ouyangpeng/I12/Release 
+ 2018-02-06 ---> upload_file_tree()---> 上传文件： XTCLauncher.apk 
+ 2018-02-06 ---> local_file_size:16749148  , remote_file_size:16749148 
+ 2018-02-06 ---> 跳过相等的文件: G:/ftp_test/Release\XTCLauncher.apk 
+ 2018-02-06 ---> upload_file_tree()---> 上传文件： v1.jpg 
+ 2018-02-06 ---> local_file_size:203677  , remote_file_size:203677 
+ 2018-02-06 ---> 跳过相等的文件: G:/ftp_test/v1.jpg 
+ 2018-02-06 ---> upload_file_tree()---> 上传文件： XTCLauncher.apk 
+ 2018-02-06 ---> local_file_size:16749148  , remote_file_size:16749148 
+ 2018-02-06 ---> 跳过相等的文件: G:/ftp_test/XTCLauncher.apk 
+ 2018-02-06 ---> close()---> FTP退出 
+ 2018-02-06 ---> 开始尝试连接到 172.28.180.117 
+ 2018-02-06 ---> 成功连接到 172.28.180.117 
+ 2018-02-06 ---> 开始尝试登录到 172.28.180.117 
+ 2018-02-06 ---> 发生错误: FTP 连接或登录失败 ，错误描述为：530 Login incorrect. 
+ 
